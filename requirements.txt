@@ -1,0 +1,3 @@
+Django==1.8
+psycopg2
+-e git+https://github.com/flupzor/packetparser.git#egg=packetparser
